@@ -1,8 +1,6 @@
 import random
 import seaborn as sb
 
-from create_deck import create_deck
-
 random.seed(0)
 
 
